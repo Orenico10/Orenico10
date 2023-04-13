@@ -61,5 +61,5 @@
 
 [![TFM](https://cdn.discordapp.com/icons/888003916485230592/c4833a7e4b0379ade2ec87b130cbfd58.png?size=64)](https://github.com/TGWaffles/TheFlippingMod) [![TEM](https://cdn.discordapp.com/icons/932106421338779709/923d3d8617b43a9f95897d9ad575b2ea.png?size=64)](https://github.com/TGWaffles/TheExoticsMod)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Orenico10&count_private=true&show_icons=true&theme=tokyonight"></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Orenico10&count_private=true&show_icons=true&theme=tokyonight"></p>
 
